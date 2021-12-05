@@ -6,14 +6,15 @@ permalink: /about/
 
 {%- include youtube_frame.html  youtube_id= "tnwFVcm8A_8" -%}
 
-collections 왜 안되냐 !!!!
+
+-----------collections --------------------
 {{ site.staff_members.Jane }}
 {% for staff_member in site.staff_members %}
 asdfasd
 <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
 <p>{{ staff_member.content | markdownify }}</p>
 {% endfor %}
-
+-------------------------------
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 

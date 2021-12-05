@@ -1,7 +1,7 @@
 ---
 layout: custom-post #커스텀한layout 쓰고싶으면이렇게
 title:  "frontmatter title" 
-date:   2021-11-25 00:11:09 +0900 #없으면 md파일명
+date:   2021-11-23 00:11:09 +0900 #없으면 md파일명
 categories: frontmatter category #없으면없는겨 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
